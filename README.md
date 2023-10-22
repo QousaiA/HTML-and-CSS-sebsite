@@ -1,1 +1,1 @@
-# HTML-and-CSS-sebsite
+# HTML-and-CSS-website
